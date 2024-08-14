@@ -1,6 +1,11 @@
 # Hybrid-Foldable-Robots
 
-As part of our minor project during the Bachelor's degree in Mechatronics Engineering at NMIMS University, Mumbai, our team developed and simulated an innovative adaptive quadruped robot with dual locomotion capabilities (wheeled and legged). This project aimed to enhance mobility and versatility by integrating both locomotion modes, allowing the robot to navigate diverse terrains effectively.
+As part of our minor project during the Bachelor's degree in Mechatronics Engineering at NMIMS University, Mumbai, our team developed and simulated an innovative adaptive quadruped robot with dual locomotion capabilities (wheeled and legged). This project aimed to enhance mobility and versatility by integrating both locomotion modes, allowing the robot to navigate diverse terrains effectively. 
+
+### Team Members:
+1. Miheer Diwan
+2. Shubhankar Kulkarni
+3. Khojasteh Mirza
 
  Please refer to the [Report](Report.pdf) for more details.
 
@@ -36,11 +41,3 @@ https://github.com/user-attachments/assets/d6bb64bf-e992-4820-a34a-0680039ad129
 
 
 
-
-
-
-
-## Team Members:
-1. Miheer Diwan
-2. Shubhankar Kulkarni
-3. Khojasteh
