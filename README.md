@@ -1,7 +1,7 @@
 # Hybrid-Foldable-Robots
 
-Minor project as part of Bachelor's degree in Mechatronics Engineering at NMIMS University, Mumbai.
-Please refer to the [Report](Report.pdf) for more details. 
+This project was a Minor project as part of a Bachelor's degree in Mechatronics Engineering at NMIMS University, Mumbai.
+ The goal of this project was to develop and simulate an adaptive quadruped robotics system with dual locomotion (Wheeled and Legged).  Please refer to the [Report](Report.pdf) for more details.
 
 
 ## Objective:
@@ -10,8 +10,10 @@ Please refer to the [Report](Report.pdf) for more details.
 ## Tools Used:
 1. Python
 2. CoppeliaSim
-3. MATLAB/Simulink
-4. RaspberryPi
+3. OpenCV
+4. MATLAB/Simulink
+5. RaspberryPi
+   
 
 ## CAD Design:
 <p align="center">
