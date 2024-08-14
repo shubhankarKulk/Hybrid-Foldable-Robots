@@ -1,10 +1,9 @@
 # Hybrid-Foldable-Robots
 
-This project was a Minor project as part of a Bachelor's degree in Mechatronics Engineering at NMIMS University, Mumbai.
- The goal of this project was to develop and simulate an adaptive quadruped robotics system with dual locomotion (Wheeled and Legged).  Please refer to the [Report](Report.pdf) for more details.
+As part of our minor project during the Bachelor's degree in Mechatronics Engineering at NMIMS University, Mumbai, our team developed and simulated an innovative adaptive quadruped robot with dual locomotion capabilities (wheeled and legged). This project aimed to enhance mobility and versatility by integrating both locomotion modes, allowing the robot to navigate diverse terrains effectively.
 
+ Please refer to the [Report](Report.pdf) for more details.
 
-## Objective:
 
 
 ## Tools Used:
