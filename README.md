@@ -10,7 +10,10 @@ As part of our minor project during the Bachelor's degree in Mechatronics Engine
 3. Khojasteh Mirza
 
 ### Summary:
-We designed and simulated an innovative adaptive quadruped robot with dual locomotion capabilities (wheeled and legged). This project aimed to enhance mobility and versatility by integrating both locomotion modes, allowing the robot to navigate diverse terrains effectively. The robot was designed in SolidWorks, and a URDF (Unified Robot Description Format) model was created for it. This URDF model was imported into the CoppeliaSim environment, where various sensors and robot dynamics were integrated using the simulation environment’s API. This setup allowed for comprehensive simulation and testing of the robot’s performance. The controls for the robot are based on a simple PID controller and were tuned using MATLAB.
+- A hybrid adaptive(height-altering) quadruped robot with dual locomotion capabilities (wheeled and legged) was designed and simulated in CoppeliaSim. 
+- This project aimed to enhance mobility and versatility by integrating both locomotion modes, allowing the robot to navigate diverse terrains effectively. 
+- The robot was designed in SolidWorks, and a URDF (Unified Robot Description Format) model was created for it. This URDF model was imported into the CoppeliaSim environment, where various sensors and robot dynamics were integrated using the simulation environment’s API. This setup allowed for comprehensive simulation and testing of the robot’s performance.
+- The controls for the robot are based on a simple PID controller and were tuned using MATLAB.
 
  Please refer to the [Report](Report.pdf) for more details.
 
