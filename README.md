@@ -1,6 +1,6 @@
 # Hybrid-Foldable-Robots
 
-As part of our minor project during the Bachelor's degree in Mechatronics Engineering at NMIMS University, Mumbai, our team developed a quadruped robot simulation. 
+As part of our minor project during the Bachelor's degree in Mechatronics Engineering at NMIMS University, Mumbai, our team developed a quadruped robot simulation in 2020. 
 
 
 
