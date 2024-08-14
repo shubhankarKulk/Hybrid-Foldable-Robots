@@ -12,6 +12,15 @@ Please refer to the [Report](Report.pdf) for more details.
 3. MATLAB/Simulink
 4. RaspberryPi
 
+## Outcome:
+
+
+
+
+https://github.com/user-attachments/assets/9b03ef7b-b2b3-48d1-999a-3ad01adec55b
+
+
+
 ## Team Members:
 1. Miheer Diwan
 2. Shubhankar Kulkarni
