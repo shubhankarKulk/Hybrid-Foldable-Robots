@@ -6,11 +6,19 @@ Please refer to the [Report](Report.pdf) for more details.
 
 ## Objective:
 
+
 ## Tools Used:
 1. Python
 2. CoppeliaSim
 3. MATLAB/Simulink
 4. RaspberryPi
+
+## CAD Design:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a62aace6-de75-49bd-804e-b484a971ae47" width="300" />
+  <img src="https://github.com/user-attachments/assets/41eb1224-e317-4c7e-b9fa-efcc877a7ab5" width="300" />
+</p>
+
 
 ## Outcome:
 
